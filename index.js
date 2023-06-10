@@ -221,5 +221,6 @@ var setRick = function(id) {
     }, 300)
 }
 
-setRick('rick');
 window.onclose = clearInterval(frameSetter);
+
+module.exports = setRick;
