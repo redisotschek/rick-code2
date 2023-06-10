@@ -1,5 +1,5 @@
 
-const frame1 = '<div id="frame1">' +
+const frame1 = '' +
     '<i>JJJ????JJJ??JJJ???J????????????JJJJ?????</i>' +
     '<i>77!!~~!!~~~!7?77777!!!777!777!!7!77777!!</i>' +
     '<i>!~~~!!~^~~!!!777?Y5PP5?7777?777!!!777777</i>' +
@@ -13,10 +13,9 @@ const frame1 = '<div id="frame1">' +
     '<i>77?777?J?77P&&&&&#B#BBB&&&&@@G7???????J?</i>' +
     '<i>??J???JJJJJ#@&&@&&&&###&&&@@@PJJJJJ??JJ?</i>' +
     '<i>YY5YYYYYYYY#@@@@@@@&##&@@&@@#5YYYYJJJJJJ</i>' +
-    '<i>555YYY55YYY5#&@@@@@&&#&@@&@&P555YYYYYYYY</i>' +
-'</div>';
+    '<i>555YYY55YYY5#&@@@@@&&#&@@&@&P555YYYYYYYY</i>';
 
-const frame2 = 'div id="frame2">' +
+const frame2 = '' +
     
     '<i>5Y555555#G5GGGGGGBBBBBBBGGP5555555555555</i>' +
     '<i>!!!!!!!7BY!?JJJJJJJJJJJJ?7!~~~~~~~~~~~~~</i>' +
@@ -31,10 +30,9 @@ const frame2 = 'div id="frame2">' +
     '<i>777777?P55#&&#BBGP5YJJ?????????777777777</i>' +
     '<i>??????JP5JYYYYJJ???????????????777777777</i>' +
     '<i>JJJJJJYP5JJJJJJJJJJJJJJJJJJJJJ??????????</i>' +
-    '<i>5555PPGBGGPPPP555555555555555YYYYYYY5JJY</i>' +
-'</div>';
+    '<i>5555PPGBGGPPPP555555555555555YYYYYYY5JJY</i>';
 
-const frame3 = 'div id="frame3">' +
+const frame3 = '' +
     
     '<i>?7??????777?JJJ???JJJ?777?JYJ????????JJJ</i>' +
     '<i>!!!!~~~~^~~~!!!~!77~^^~!!!7?7!~~^~~~7?77</i>' +
@@ -49,10 +47,9 @@ const frame3 = 'div id="frame3">' +
     '<i>??J?7?JJP&&&&&&&&&GB#&&&#???JJ7!7J?!7J?!</i>' +
     '<i>JJY???YY#&&&&&@@&&BB&&&&#J?JJYJJJYJ??JJ7</i>' +
     '<i>YY5YYYYYBBGB#&@@@&##&&&@@#5YYYYYYYYJJYYJ</i>' +
-    '<i>555YYY555B&&@@@@@#GB&@&#&@&BGGP555YYYY5Y</i>' +
-'</div>';
+    '<i>555YYY555B&&@@@@@#GB&@&#&@&BGGP555YYYY5Y</i>';
 
-const frame4 = 'div id="frame4">' +
+const frame4 = '' +
     
     '<i>7???????7???JJJ???????777?JYJ??7????JJJJ</i>' +
     '<i>!!!!~~~~^~~~!!!!?5PPY~!!!!7?7!~~^~~!7777</i>' +
@@ -68,9 +65,8 @@ const frame4 = 'div id="frame4">' +
     '<i>??J???5&&&&&@@&&&@&#&&&#5??JJJ?7?J?77J?!</i>' +
     '<i>JJYJJ5&&&G&@@@&&&@&&&&&&#GP5YJJYYYJ??JJ7</i>' +
     '<i>Y55Y5&&&P5&@@@@&&@&&&#&GY55P5YYYYYYYJYYJ</i>' +
-    '<i>5555&@&GY#&@@@&&&@&&@#&5YYYYY5YYY5YYYY55</i>' +
-'</div>';
-const frame5 = 'div id="frame5">' +
+    '<i>5555&@&GY#&@@@&&&@&&@#&5YYYYY5YYY5YYYY55</i>';
+const frame5 = '' +
     
     '<i>?77???777777???77???J?777?JYJ????????JJJ</i>' +
     '<i>!!!~~^~~^~~~~!!~!7!~^^~!!!7?7!~~^~~~777!</i>' +
@@ -85,9 +81,8 @@ const frame5 = 'div id="frame5">' +
     '<i>?7?777?J?!!5&&&&&&&GBB&&&&&&&&Y77J?77J?!</i>' +
     '<i>J?J???JYJJ?P&&&@&&&#BB&&&&&@&&P?JYJ??JJ7</i>' +
     '<i>YYYJJJYYYYJP&&&&#B####&&&&#BB&PJYYYJJJYJ</i>' +
-    '<i>555YYY555Y55G##&##&&&##&&@&BB#5YYYYYYY55</i>' +
-'</div>';
-const frame6 = 'div id="frame6">' +
+    '<i>555YYY555Y55G##&##&&&##&&@&BB#5YYYYYYY55</i>';
+const frame6 = '' +
     '<i>777???777777???77???J?777?JYJ????????JJJ</i>' +
     '<i>!!!!~~~~^~~~~!!~!777777!!!7?77!~^~~~!777</i>' +
     '<i>!~~~~~^^^~~~~!~~~!JGGPPJ!7777!~~^^~!!7!!</i>' +
@@ -102,9 +97,8 @@ const frame6 = 'div id="frame6">' +
     '<i>7?J777?J?777??7Y&&&##&&@&&&&&##B5J?77JJ!</i>' +
     '<i>JJY???JJJJ??Y5B&&&&&&&&&&&&&GJJJJJJ??JJ7</i>' +
     '<i>YYYJJJY5YYJJ5PB#B&@&B#&&&&&&#JYYYYYJJYYJ</i>' +
-    '<i>555YYY555Y55555YB&@&BB&&&&&&#YYYYYYYYYYY</i>' +
-'</div>';
-const frame7 = 'div id="frame7">' +
+    '<i>555YYY555Y55555YB&@&BB&&&&&&#YYYYYYYYYYY</i>';
+const frame7 = '' +
     '<i>7777??777777???7????J?777?JJJ????????JJJ</i>' +
     '<i>!!!~~^~~^^~~~!!~!77YPPP?!!7?7!~~^~~!7777</i>' +
     '<i>!~^~~~^^^~~~~!~~~!Y55YYP!7777!!~^^!!!!!!</i>' +
@@ -118,9 +112,8 @@ const frame7 = 'div id="frame7">' +
     '<i>77J777?J?!!7Y#&#BG##&&&&&&&&&&G7?J?77J?!</i>' +
     '<i>?JJ???JJJJ??JY5B##&&&&&&&@@BPPYJJYJ??JJ7</i>' +
     '<i>YYYJJJYYYYJJYYJB&@&&@@@&&&&GJJJYYYYJJYYJ</i>' +
-    '<i>555YYY555Y55555&&&&&@@@&&&&#YYYYYYYYYY55</i>' +
-'</div>';
-const frame8 = 'div id="frame8">' +
+    '<i>555YYY555Y55555&&&&&@@@&&&&#YYYYYYYYYY55</i>';
+const frame8 = '' +
     
     '<i>!~~!!!~~^~~!~~!7!!77!~!!!7??7!!!!!!!7777</i>' +
     '<i>!~!!~~~~~~^^^^~!!!7?5PPY77?7!~^^~^~!7777</i>' +
@@ -135,9 +128,8 @@ const frame8 = 'div id="frame8">' +
     '<i>!!7!!77~~!!~~!YB&&&B#&&&&&&&&&P?!~~7!~~!</i>' +
     '<i>777!7777!!!~~?5PB#&B#&&&&&&&5?!777777!!7</i>' +
     '<i>????????77!!!7JJ?G#PG&&&&&&&G!!!!777777?</i>' +
-    '<i>??????????777777PBG5PB&&&&&&&J!!!!!!!!7?</i>' +
-'</div>';
-const frame9 = 'div id="frame9">' +
+    '<i>??????????777777PBG5PB&&&&&&&J!!!!!!!!7?</i>';
+const frame9 = '' +
     
     '<i>77?????7777???JJ?JJJ77???JYJJ??777??JJJJ</i>' +
     '<i>!!!!!~~~~~^^^^!7!!!~^^~!!777!~^^~^~!7777</i>' +
@@ -152,9 +144,8 @@ const frame9 = 'div id="frame9">' +
     '<i>7??7?J?7Y&&&&&&GGGB#&&&&&5?J????7!!?77!7</i>' +
     '<i>JJJJJYYJB&&&&&&&&&B#&&&&&#GPYJJYJJJYJJ?J</i>' +
     '<i>55555555P#&#&@@@@&#&&&@@@&&BYYYYYYYYYYY5</i>' +
-    '<i>PPPPPPP55555B@@@@&#BB&@@#BG5YYYYY55YYY55</i>' +
-'</div>';
-const frame10 = 'div id="frame10">' +
+    '<i>PPPPPPP55555B@@@@&#BB&@@#BG5YYYYY55YYY55</i>';
+const frame10 = '' +
     
     '<i>777????7!77?77?J??J?77????JJ??7777??JJJ?</i>' +
     '<i>!!!!!~~~~~^^^~75GGGJ^^~!!777!~^^~^~!7777</i>' +
@@ -169,9 +160,9 @@ const frame10 = 'div id="frame10">' +
     '<i>7?J??JB&&&&&&&&&#&&#&&@&#G55YJ??7!7?7777</i>' +
     '<i>JYYJJYY55G&&&@@@@&&&&#G#&&#GP5YYJJJYJJ?J</i>' +
     '<i>5555555YYG&&&&@@@&#&@#JJJYYYYYYYYYYYYYY5</i>' +
-    '<i>PPPPPP555B&@&&@@@&B&&&5YYYYYYYYY555YYY55</i>' +
-'</div>';
-const frame11 = 'div id="frame11">' +
+    '<i>PPPPPP555B&@&&@@@&B&&&5YYYYYYYYY555YYY55</i>';
+
+const frame11 = '' +
     '<i>?JJJ??7777??JJ????77?J??J?77?77!7????777</i>' +
     '<i>7777!~^~^^~!777!!~^^JGGG57~^^^~~~~~!!!!!</i>' +
     '<i>!!!~~!~^~!!!77!~^~~~?55G##J~~~^~~^:^~!!!</i>' +
@@ -185,8 +176,7 @@ const frame11 = 'div id="frame11">' +
     '<i>7777?7!7??JY55G#&@&&#&&#&&&&&&&&&BJ??J?7</i>' +
     '<i>J?JJYJJJYY5PG#&&#G#&&&&@@@@&&&G55YYJJYYJ</i>' +
     '<i>5YYYYYYYYYYYYYYJJJ#@&#&@@@&&&&GYY5555555</i>' +
-    '<i>55YYY555YYYYYYYYY5&&&B&@@@&&@&B555PPPPPP</i>' +
-'</div>';
+    '<i>55YYY555YYYYYYYYY5&&&B&@@@&&@&B555PPPPPP</i>';
 
 
 const frames = {
