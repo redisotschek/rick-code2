@@ -193,13 +193,20 @@ const frames = {
     frame1, frame2, frame3, frame4, frame5, frame6, frame7, frame8, frame9, frame10, frame11
 };
 
-const root = document.getElementById('rick');
-root.style.display = 'none';
-root.style.willChange = 'transform';
-let currentFrame = 1;
-let frameSetter = null;
+var setRick = function(id) {
 
-var setRick = function() {
+    const root = document.getElementById(id);
+    if (!root) {
+        return {
+            onload: function() {
+                console.error('no element with id ' + id);
+            }
+        }
+    }
+    root.style.display = 'none';
+    root.style.willChange = 'transform';
+    let currentFrame = 1;
+    let frameSetter = null;
 
     function setFrame(frame) {
         root.innerHTML = frame;
@@ -210,10 +217,9 @@ var setRick = function() {
             currentFrame = 1;
         }
         setFrame(frames[`frame${currentFrame}`]);
-        console.log(currentFrame)
         currentFrame++;
     }, 300)
 }
 
-setRick().onload();
+setRick('rick');
 window.onclose = clearInterval(frameSetter);
