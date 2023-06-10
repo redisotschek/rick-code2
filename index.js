@@ -213,5 +213,3 @@ var setRick = function(id) {
 }
 
 window.onclose = clearInterval(frameSetter);
-
-module.exports = setRick;
