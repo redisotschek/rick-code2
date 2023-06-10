@@ -13,7 +13,8 @@ You can download the script itself or install a NPM package with the following c
 
 npm i -s rick-code2
 
-In your main script call 
+In your main script call:
+
 import setRick from 'rick-code2';
 
 setRick(<id-of-your-boot-element-for-Rick>);
