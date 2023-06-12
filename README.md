@@ -17,4 +17,4 @@ In your main script call:
 
 import setRick from 'rick-code2';
 
-setRick(<id-of-your-boot-element-for-Rick>);
+setRick([id-of-your-boot-element-for-Rick]);
